@@ -12,6 +12,7 @@ int main(int argc, char *argv[]) {
 	int baitaplon;
 	
 	printf("nhap so buoi hoc:\n");
+	printf("nhap so buoi nghi:\n");
 	
 	
 	scanf("%d,d", &hoc, &nghi);
